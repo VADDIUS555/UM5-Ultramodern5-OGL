@@ -1,4 +1,4 @@
-# um5-ultramodern-ogl
+# um5-ultramodern-ogl for FoundryVTT
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/MrBrentRogers/UM5-Ultramodern5-OGL) 
 ![GitHub Releases](https://img.shields.io/github/downloads/MrBrentRogers/UM5-Ultramodern5-OGL/latest/total)
 ![GitHub All Releases](https://img.shields.io/github/downloads/MrBrentRogers/UM5-Ultramodern5-OGL/total?label=downloads) 
